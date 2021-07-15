@@ -1,0 +1,17 @@
+E:\Projects\Table\Table\obj\Debug\net5.0\Table.csprojAssemblyReference.cache
+E:\Projects\Table\Table\obj\Debug\net5.0\Table.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Table\Table\obj\Debug\net5.0\Table.AssemblyInfoInputs.cache
+E:\Projects\Table\Table\obj\Debug\net5.0\Table.AssemblyInfo.cs
+E:\Projects\Table\Table\obj\Debug\net5.0\Table.csproj.CoreCompileInputs.cache
+E:\Projects\Table\Table\obj\Debug\net5.0\Table.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\Table\Table\obj\Debug\net5.0\Table.RazorComponent.input.cache
+E:\Projects\Table\Table\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+E:\Projects\Table\Table\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+E:\Projects\Table\Table\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+E:\Projects\Table\Table\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+E:\Projects\Table\Table\obj\Debug\net5.0\RazorDeclaration\Pages\TableField.razor.g.cs
+E:\Projects\Table\Table\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+E:\Projects\Table\Table\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+E:\Projects\Table\Table\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+E:\Projects\Table\Table\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+E:\Projects\Table\Table\obj\Debug\net5.0\Table.RazorComponent.output.cache

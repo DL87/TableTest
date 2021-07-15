@@ -1,0 +1,29 @@
+﻿<h3>Table</h3>
+
+
+<table class="table table-stripe">
+    <thead>
+        <tr>
+            @foreach (var col in TableObject.Columns)
+            {
+                <th @onclick="() => Sort(TableObject.ObjectType, col)">
+                    @col.Field
+                </th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var row in TableObject.Data)
+        {
+            <tr>
+                @foreach (var col in TableObject.Columns)
+                {
+                    <td>
+                        @GetValue(row, col)
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+
